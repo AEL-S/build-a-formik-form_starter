@@ -3,7 +3,7 @@
 This assigment was completed for the MIT xPro Fullstack Development with MERN certificate program. 
 
 <h2>To Run:</h2>
-...
+...under construction...
 
 <h2>Roadmap of future improvements:</h2>
 I plan to come back to this project and eventually work on the styling to make it a littel less bare-bones.
